@@ -1,0 +1,15 @@
+
+.navbar{
+    background-color: pink;
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    float: right;
+    background-color: pink;
+}
+h2{
+    color: blueviolet;
+}
